@@ -31,7 +31,7 @@ The dataset used for this project is sourced from Kaggle:
 ## Models Trained
 
 We trained and evaluated the following models:
-1. ** Multiple Linear Regression**
+1. Multiple Linear Regression
 2. Polynomial Regression
 3. **Support Vector Regressor (SVR)**
 4. **Random Forest Regressor**
