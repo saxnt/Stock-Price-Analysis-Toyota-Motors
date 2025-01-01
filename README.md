@@ -71,11 +71,6 @@ Among these, the Decision Tree Regressor yielded the best results with the highe
 This project demonstrates how machine learning can be used to analyze and predict stock prices effectively. The Decision Tree Regressor’s ability to model non-linear patterns makes it particularly well-suited for this task. Future improvements could include hyperparameter optimization and the incorporation of external economic indicators to enhance predictions.
 
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-
 ## Acknowledgments
 
 Special thanks to Kaggle and the dataset provider for making this analysis possible.
